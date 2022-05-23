@@ -38,5 +38,5 @@ function draw(){
 }
 function printWinner(winner){
     let h1 = document.querySelector('h1');
-    h1.innerHTML = "Player " + winner + " wins!";
+    h1.innerHTML = "&#128681; Player " + winner + " wins!";
 }
